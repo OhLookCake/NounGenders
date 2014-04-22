@@ -188,7 +188,7 @@ achevé d'imprimer,achevé d'imprimer,acheve d'imprimer,m
 achevement,achèvement,achevement,m
 achigan,achigan,achigan,m
 achoppement,achoppement,achoppement,m
-Acide,Acide,Acide,m
+acide,acide,acide,m
 acidité,acidité,acidite,f
 acier,acier,acier,m
 acierage,aciérage,acierage,m
@@ -225,7 +225,7 @@ actinium,actinium,actinium,m
 actinologie,actinologie,actinologie,f
 actinomètre,actinomètre,actinometre,m
 action,action,action,f
-action de grâce(s),action de grâce(s),action de grace(s),f
+action de grâce,action de grâce,action de grace,f
 actionnaire,actionnaire,actionnaire,m
 actionnaire,actionnaire,actionnaire,f
 actionnariat,actionnariat,actionnariat,m
@@ -414,7 +414,7 @@ agnelle,agnelle,agnelle,f
 agnosticisme,agnosticisme,agnosticisme,m
 agnostique,agnostique,agnostique,m
 agnostique,agnostique,agnostique,f
-agnus Dei,agnus Dei,agnus Dei,m
+agnus dei,agnus dei,agnus dei,m
 agonie,agonie,agonie,f
 agonisant,agonisant,agonisant,m
 agonisant,agonisant,agonisant,f
@@ -443,7 +443,7 @@ agronome,agronome,agronome,f
 agronomie,agronomie,agronomie,f
 agrume,agrume,agrume,m
 aguiche,aguiche,aguiche,f
-ah !,ah !,ah !,m
+ah,ah,ah,m
 ahan,ahan,ahan,m
 ahurissement,ahurissement,ahurissement,m
 aide,aide,aide,f
@@ -1012,12 +1012,12 @@ antillais,antillais,antillais,f
 antilope,antilope,antilope,f
 antimatière,antimatière,antimatiere,f
 antimilitarisme,antimilitarisme,antimilitarisme,m
-antimissile(s),antimissile(s),antimissile(s),m
-antimite(s),antimite(s),antimite(s),m
+antimissile,antimissile,antimissile,m
+antimite,antimite,antimite,m
 antimoine,antimoine,antimoine,m
 antinévralgique,antinévralgique,antinevralgique,m
 antinomie,antinomie,antinomie,f
-antiparasite(s),antiparasite(s),antiparasite(s),m
+antiparasite,antiparasite,antiparasite,m
 antiparlementaire,antiparlementaire,antiparlementaire,m
 antiparlementaire,antiparlementaire,antiparlementaire,f
 antipathie,antipathie,antipathie,f
@@ -1081,7 +1081,7 @@ api,api,api,m
 apiculteur,apiculteur,apiculteur,f
 apiculture,apiculture,apiculture,f
 apitoiement,apitoiement,apitoiement,m
-APL,APL,APL,m
+apl,apl,apl,m
 aplanissement,aplanissement,aplanissement,m
 aplat,aplat,aplat,m
 aplatissement,aplatissement,aplatissement,m
@@ -1306,7 +1306,7 @@ arquebuse,arquebuse,arquebuse,f
 arquebusier,arquebusier,arquebusier,m
 arraché,arraché,arrache,m
 arrache-clou,arrache-clou,arrache-clou,m
-arrache-racine(s),arrache-racine(s),arrache-racine(s),m
+arrache-racine,arrache-racine,arrache-racine,m
 arrachement,arrachement,arrachement,m
 arracheur,arracheur,arracheur,m
 arracheur,arracheur,arracheur,f
@@ -1719,7 +1719,7 @@ avare,avare,avare,f
 avarice,avarice,avarice,f
 avarie,avarie,avarie,f
 avatar,avatar,avatar,m
-Ave,Ave,Ave,m
+ave,ave,ave,m
 aveline,aveline,aveline,f
 avelinier,avelinier,avelinier,m
 avenant,avenant,avenant,m
@@ -2608,7 +2608,7 @@ bon,bon,bon,m
 bon,bon,bon,f
 bon-papa,bon-papa,bon-papa,m
 bon de commande,bon de commande,bon de commande,m
-bon du Trésor,bon du Trésor,bon du Tresor,m
+bon du trésor,bon du trésor,bon du tresor,m
 bon sens,bon sens,bon sens,m
 bonbon,bonbon,bonbon,m
 bonbonne,bonbonne,bonbonne,f
@@ -3032,7 +3032,7 @@ brulage,brûlage,brulage,m
 brulé,brûlé,brule,m
 brulé,brûlé,brule,f
 brule-gueule,brûle-gueule,brule-gueule,m
-brule-parfum(s),brûle-parfum(s),brule-parfum(s),m
+brule-parfum,brûle-parfum,brule-parfum,m
 brulerie,brûlerie,brulerie,f
 bruleur,brûleur,bruleur,m
 brulis,brûlis,brulis,m
@@ -3194,7 +3194,7 @@ cadreur,cadreur,cadreur,f
 caducée,caducée,caducee,m
 caducité,caducité,caducite,f
 cæcum,cæcum,cacum,m
-caf'conc',caf'conc',caf'conc',m
+caf'conc,caf'conc,caf'conc,m
 cafard,cafard,cafard,m
 cafard,cafard,cafard,f
 cafe,café,cafe,m
@@ -3900,7 +3900,7 @@ charcuterie,charcuterie,charcuterie,f
 charcutier,charcutier,charcutier,f
 chardon,chardon,chardon,m
 charge,charge,charge,f
-chargé  (de projet,chargé  (de projet,charge  (de projet,f
+chargé,chargé,charge,f
 chargement,chargement,chargement,m
 chargeur,chargeur,chargeur,m
 chargeuse,chargeuse,chargeuse,f
@@ -3978,7 +3978,7 @@ chaudronnerie,chaudronnerie,chaudronnerie,f
 chaudronnier,chaudronnier,chaudronnier,f
 chauffage,chauffage,chauffage,m
 chauffard,chauffard,chauffard,m
-chauffe-assiette(s),chauffe-assiette(s),chauffe-assiette(s),m
+chauffe-assiette,chauffe-assiette,chauffe-assiette,m
 chauffe-bain,chauffe-bain,chauffe-bain,m
 chauffe-eau,chauffe-eau,chauffe-eau,m
 chauffe-pieds,chauffe-pieds,chauffe-pieds,m
@@ -4181,7 +4181,7 @@ chuchoterie,chuchoterie,chuchoterie,f
 chuchotis,chuchotis,chuchotis,m
 chuintant,chuintant,chuintant,f
 chuintement,chuintement,chuintement,m
-chut!,chut!,chut!,m
+chut,chut,chut,m
 chute,chute,chute,f
 cible,cible,cible,f
 ciboire,ciboire,ciboire,m
@@ -4691,7 +4691,7 @@ compte-gouttes,compte-gouttes,compte-gouttes,m
 compte-tours,compte-tours,compte-tours,m
 compte courant postal,compte courant postal,compte courant postal,m
 compte rendu,compte rendu,compte rendu,m
-compte(-)chèques,compte(-)chèques,compte(-)cheques,m
+comptechèques,comptechèques,comptecheques,m
 compteur,compteur,compteur,m
 comptine,comptine,comptine,f
 comptoir,comptoir,comptoir,m
@@ -5091,7 +5091,7 @@ coquetier,coquetier,coquetier,m
 coquetterie,coquetterie,coquetterie,f
 coquillage,coquillage,coquillage,m
 coquille,coquille,coquille,f
-coquille Saint-Jacques,coquille Saint-Jacques,coquille Saint-Jacques,f
+coquille saint-jacques,coquille saint-jacques,coquille saint-jacques,f
 coquillette,coquillette,coquillette,f
 coquin,coquin,coquin,m
 coquin,coquin,coquin,f
@@ -5249,7 +5249,7 @@ coupable,coupable,coupable,f
 coupage,coupage,coupage,m
 coupe,coupe,coupe,f
 coupé,coupé,coupe,m
-coupe-cigare(s),coupe-cigare(s),coupe-cigare(s),m
+coupe-cigare,coupe-cigare,coupe-cigare,m
 coupe-circuit,coupe-circuit,coupe-circuit,m
 coupe-coupe,coupe-coupe,coupe-coupe,m
 coupe-faim,coupe-faim,coupe-faim,m
@@ -5301,7 +5301,7 @@ coursive,coursive,coursive,f
 court,court,court,m
 court-bouillon,court-bouillon,court-bouillon,m
 court-circuit,court-circuit,court-circuit,m
-court(-)métrage,court(-)métrage,court(-)metrage,m
+courtmétrage,courtmétrage,courtmetrage,m
 courtage,courtage,courtage,m
 courtepointe,courtepointe,courtepointe,f
 courtier,courtier,courtier,f
@@ -5335,7 +5335,7 @@ couvre-feu,couvre-feu,couvre-feu,m
 couvre-lit,couvre-lit,couvre-lit,m
 couvre-nuque,couvre-nuque,couvre-nuque,m
 couvre-objet,couvre-objet,couvre-objet,m
-couvre-pied(s),couvre-pied(s),couvre-pied(s),m
+couvre-pied,couvre-pied,couvre-pied,m
 couvre-plat,couvre-plat,couvre-plat,m
 couvre-sol,couvre-sol,couvre-sol,m
 couvreur,couvreur,couvreur,f
@@ -5398,7 +5398,7 @@ crematoire,crématoire,crematoire,m
 crematorium,crématorium,crematorium,m
 creme,crème,creme,f
 creme caramel,crème caramel,creme caramel,f
-creme Chantilly,crème Chantilly,creme Chantilly,f
+creme chantilly,crème chantilly,creme chantilly,f
 cremerie,crémerie,cremerie,f
 cremone,crémone,cremone,f
 creneau,créneau,creneau,m
@@ -5709,7 +5709,7 @@ dauphinois,dauphinois,dauphinois,f
 daurade,daurade,daurade,f
 dazibao,dazibao,dazibao,m
 de,dé,de,m
-De profundis,De profundis,De profundis,m
+de profundis,de profundis,de profundis,m
 deambulation,déambulation,deambulation,f
 debacle,débâcle,debacle,f
 deballage,déballage,deballage,m
@@ -6377,7 +6377,7 @@ detrousseur,détrousseur,detrousseur,m
 dette,dette,dette,f
 deuil,deuil,deuil,m
 deus ex machina,deus ex machina,deus ex machina,m
-deutsche Mark,deutsche Mark,deutsche Mark,m
+deutsche mark,deutsche mark,deutsche mark,m
 deux,deux,deux,m
 deux-mâts,deux-mâts,deux-mats,m
 deux-pièces,deux-pièces,deux-pieces,m
@@ -6700,7 +6700,7 @@ dommage,dommage,dommage,m
 dompteur,dompteur,dompteur,m
 dompteur,dompteur,dompteur,f
 don,don,don,m
-don Juan,don Juan,don Juan,m
+don juan,don juan,don juan,m
 donataire,donataire,donataire,m
 donataire,donataire,donataire,f
 donateur,donateur,donateur,m
@@ -6837,7 +6837,7 @@ dystrophie,dystrophie,dystrophie,f
 eau,eau,eau,f
 eau-de-vie,eau-de-vie,eau-de-vie,f
 eau-forte,eau-forte,eau-forte,f
-eau de Cologne,eau de Cologne,eau de Cologne,f
+eau de cologne,eau de cologne,eau de cologne,f
 ebahissement,ébahissement,ebahissement,m
 ebats,ébats,ebats,m
 ebauche,ébauche,ebauche,f
@@ -6939,7 +6939,7 @@ ecriture,écriture,ecriture,f
 ecrivain,écrivain,ecrivain,m
 ecrou,écrou,ecrou,m
 ecu,écu,ecu,m
-ÉCU,ÉCU,ECU,m
+écu,écu,ecu,m
 ecueil,écueil,ecueil,m
 ecuelle,écuelle,ecuelle,f
 ecume,écume,ecume,f
@@ -7803,7 +7803,7 @@ exemplarité,exemplarité,exemplarite,f
 exemple,exemple,exemple,m
 exemption,exemption,exemption,f
 exercice,exercice,exercice,m
-exercice  (financier,exercice  (financier,exercice  (financier,m
+exercice,exercice,exercice,m
 exerciseur,exerciseur,exerciseur,m
 exerèse,exérèse,exerese,f
 exergue,exergue,exergue,m
@@ -7951,7 +7951,7 @@ fadaise,fadaise,fadaise,f
 fadeur,fadeur,fadeur,f
 fado,fado,fado,m
 fagot,fagot,fagot,m
-Fahrenheit,Fahrenheit,Fahrenheit,m
+fahrenheit,fahrenheit,fahrenheit,m
 faible,faible,faible,m
 faiblesse,faiblesse,faiblesse,f
 faience,faïence,faience,f
@@ -9100,7 +9100,7 @@ gnome,gnome,gnome,m
 gnou,gnou,gnou,m
 go,go,go,m
 goal,goal,goal,m
-gobe-mouche(s),gobe-mouche(s),gobe-mouche(s),m
+gobe-mouche,gobe-mouche,gobe-mouche,m
 gobelet,gobelet,gobelet,m
 gobeur,gobeur,gobeur,m
 gobeur,gobeur,gobeur,f
@@ -9570,7 +9570,7 @@ hausse,hausse,hausse,f
 haussement,haussement,haussement,m
 haut,haut,haut,m
 haut-commissaire,haut-commissaire,haut-commissaire,m
-haut-de-chausse(s),haut-de-chausse(s),haut-de-chausse(s),m
+haut-de-chausse,haut-de-chausse,haut-de-chausse,m
 haut-de-forme,haut-de-forme,haut-de-forme,m
 haut-fond,haut-fond,haut-fond,m
 haut-fourneau,haut-fourneau,haut-fourneau,m
@@ -10631,8 +10631,8 @@ intrusion,intrusion,intrusion,f
 intuitif,intuitif,intuitif,m
 intuitif,intuitif,intuitif,f
 intuition,intuition,intuition,f
-Inuk,Inuk,Inuk,m
-Inuk,Inuk,Inuk,f
+inuk,inuk,inuk,m
+inuk,inuk,inuk,f
 inutilité,inutilité,inutilite,f
 invalidation,invalidation,invalidation,f
 invalide,invalide,invalide,m
@@ -10782,7 +10782,7 @@ jaunissement,jaunissement,jaunissement,m
 java,java,java,f
 javanais,javanais,javanais,m
 javanais,javanais,javanais,f
-Javel (eau de),Javel (eau de),Javel (eau de),f
+javel,javel,javel,f
 javelage,javelage,javelage,m
 javelle,javelle,javelle,f
 javelot,javelot,javelot,m
@@ -11105,7 +11105,7 @@ laryngologie,laryngologie,laryngologie,f
 laryngologiste,laryngologiste,laryngologiste,m
 laryngologiste,laryngologiste,laryngologiste,f
 larynx,larynx,larynx,m
-lasagne(s),lasagne(s),lasagne(s),f
+lasagne,lasagne,lasagne,f
 lascar,lascar,lascar,m
 lasciveté,lasciveté,lascivete,f
 laser,laser,laser,m
@@ -11419,7 +11419,7 @@ londonien,londonien,londonien,m
 londonien,londonien,londonien,f
 long,long,long,m
 long-courrier,long-courrier,long-courrier,m
-long(-)métrage,long(-)métrage,long(-)metrage,m
+longmétrage,longmétrage,longmetrage,m
 longe,longe,longe,f
 longévité,longévité,longevite,f
 longitude,longitude,longitude,f
@@ -11534,7 +11534,7 @@ macaroni,macaroni,macaroni,m
 macchabée,macchabée,macchabee,m
 macedoine,macédoine,macedoine,f
 maceration,macération,maceration,f
-Mach,Mach,Mach,m
+mach,mach,mach,m
 mache,mâche,mache,f
 machefer,mâchefer,machefer,m
 machette,machette,machette,f
@@ -11593,7 +11593,7 @@ magnétisme,magnétisme,magnetisme,m
 magnéto,magnéto,magneto,m
 magnétophone,magnétophone,magnetophone,m
 magnétoscope,magnétoscope,magnetoscope,m
-Magnificat,Magnificat,Magnificat,m
+magnificat,magnificat,magnificat,m
 magnificence,magnificence,magnificence,f
 magnolia,magnolia,magnolia,m
 magnum,magnum,magnum,m
@@ -12347,7 +12347,7 @@ minimisation,minimisation,minimisation,f
 minimum,minimum,minimum,m
 ministère,ministère,ministere,m
 ministre,ministre,ministre,m
-Minitel,Minitel,Minitel,m
+minitel,minitel,minitel,m
 minois,minois,minois,m
 minorité,minorité,minorite,f
 minoterie,minoterie,minoterie,f
@@ -12998,13 +12998,13 @@ non-résident,non-résident,non-resident,m
 non-résident,non-résident,non-resident,f
 non-retour,non-retour,non-retour,m
 non-sens,non-sens,non-sens,m
-non(-)belligérant,non(-)belligérant,non(-)belligerant,m
-non(-)belligérant,non(-)belligérant,non(-)belligerant,f
-non(-)combattant,non(-)combattant,non(-)combattant,m
-non(-)combattant,non(-)combattant,non(-)combattant,f
-non(-)conformiste,non(-)conformiste,non(-)conformiste,m
-non(-)conformiste,non(-)conformiste,non(-)conformiste,f
-non(-)figuratif,non(-)figuratif,non(-)figuratif,m
+nonbelligérant,nonbelligérant,nonbelligerant,m
+nonbelligérant,nonbelligérant,nonbelligerant,f
+noncombattant,noncombattant,noncombattant,m
+noncombattant,noncombattant,noncombattant,f
+nonconformiste,nonconformiste,nonconformiste,m
+nonconformiste,nonconformiste,nonconformiste,f
+nonfiguratif,nonfiguratif,nonfiguratif,m
 nonagénaire,nonagénaire,nonagenaire,m
 nonagénaire,nonagénaire,nonagenaire,f
 nonce,nonce,nonce,m
@@ -13226,7 +13226,7 @@ offshore,offshore,offshore,m
 ogive,ogive,ogive,f
 ogre,ogre,ogre,m
 ogre,ogre,ogre,f
-oh !,oh !,oh !,m
+oh,oh,oh,m
 ohm,ohm,ohm,m
 ohmmètre,ohmmètre,ohmmetre,m
 oie,oie,oie,f
@@ -13535,7 +13535,7 @@ pacte,pacte,pacte,m
 pactole,pactole,pactole,m
 paddock,paddock,paddock,m
 paella,paella,paella,f
-PAF,PAF,PAF,m
+paf,paf,paf,m
 pagaie,pagaie,pagaie,f
 pagaille,pagaille,pagaille,f
 page,page,page,f
@@ -14005,7 +14005,7 @@ pensionnat,pensionnat,pensionnat,m
 pensum,pensum,pensum,m
 pentathlon,pentathlon,pentathlon,m
 pente,pente,pente,f
-Pentecôte,Pentecôte,Pentecote,f
+pentecôte,pentecôte,pentecote,f
 penthotal,penthotal,penthotal,m
 penture,penture,penture,f
 penultième,pénultième,penultieme,f
@@ -14162,7 +14162,7 @@ petit-lait,petit-lait,petit-lait,m
 petit-nègre,petit-nègre,petit-negre,m
 petit-suisse,petit-suisse,petit-suisse,m
 petit écran,petit écran,petit ecran,m
-petit(-)four,petit(-)four,petit(-)four,m
+petitfour,petitfour,petitfour,m
 petite annonce,petite annonce,petite annonce,f
 petitesse,petitesse,petitesse,f
 petition,pétition,petition,f
@@ -14489,7 +14489,7 @@ plebiscite,plébiscite,plebiscite,m
 pleiade,pléiade,pleiade,f
 plein,plein,plein,m
 plein-temps,plein-temps,plein-temps,m
-plein(-)emploi,plein(-)emploi,plein(-)emploi,m
+pleinemploi,pleinemploi,pleinemploi,m
 plenipotentiaire,plénipotentiaire,plenipotentiaire,m
 plenitude,plénitude,plenitude,f
 pleonasme,pléonasme,pleonasme,m
@@ -14525,7 +14525,7 @@ plume,plume,plume,f
 plumeau,plumeau,plumeau,m
 plumetis,plumetis,plumetis,m
 plumier,plumier,plumier,m
-plupart (la),plupart (la),plupart (la),f
+plupart,plupart,plupart,f
 pluralisme,pluralisme,pluralisme,m
 pluralité,pluralité,pluralite,f
 pluriel,pluriel,pluriel,m
@@ -14983,7 +14983,7 @@ prevenu,prévenu,prevenu,m
 prevenu,prévenu,prevenu,f
 prevision,prévision,prevision,f
 prevoyance,prévoyance,prevoyance,f
-prie-Dieu,prie-Dieu,prie-Dieu,m
+prie-dieu,prie-dieu,prie-dieu,m
 priere,prière,priere,f
 prieur,prieur,prieur,m
 prieur,prieur,prieur,f
@@ -15347,7 +15347,7 @@ quatre-mâts,quatre-mâts,quatre-mats,m
 quatre-quarts,quatre-quarts,quatre-quarts,m
 quatre-quatre,quatre-quatre,quatre-quatre,f
 quatre-saisons,quatre-saisons,quatre-saisons,f
-quatre-vingt(s),quatre-vingt(s),quatre-vingt(s),m
+quatre-vingt,quatre-vingt,quatre-vingt,m
 quatre-vingtième,quatre-vingtième,quatre-vingtieme,m
 quatre-vingtième,quatre-vingtième,quatre-vingtieme,f
 quatrième,quatrième,quatrieme,m
@@ -15907,7 +15907,7 @@ reporter,reporter,reporter,f
 reporter-cameraman,reporter-cameraman,reporter-cameraman,m
 reporter-cameraman,reporter-cameraman,reporter-cameraman,f
 repos,repos,repos,m
-repose-pied(s),repose-pied(s),repose-pied(s),m
+repose-pied,repose-pied,repose-pied,m
 repose-tête,repose-tête,repose-tete,m
 repousse,repousse,repousse,f
 représailles,représailles,represailles,f
@@ -16348,10 +16348,10 @@ saint,saint,saint,m
 saint,saint,saint,f
 saint-bernard,saint-bernard,saint-bernard,m
 saint-émilion,saint-émilion,saint-emilion,m
-Saint-Esprit,Saint-Esprit,Saint-Esprit,m
+saint-esprit,saint-esprit,saint-esprit,m
 saint-honoré,saint-honoré,saint-honore,m
 saint-paulin,saint-paulin,saint-paulin,m
-Saint-Siège,Saint-Siège,Saint-Siege,m
+saint-siège,saint-siège,saint-siege,m
 sainte-nitouche,sainte-nitouche,sainte-nitouche,f
 sainteté,sainteté,saintete,f
 saisie,saisie,saisie,f
@@ -16790,7 +16790,7 @@ siamois,siamois,siamois,f
 sibylle,sibylle,sibylle,f
 sicilien,sicilien,sicilien,m
 sicilien,sicilien,sicilien,f
-SIDA,SIDA,SIDA,m
+sida,sida,sida,m
 sidatique,sidatique,sidatique,m
 sidatique,sidatique,sidatique,f
 sideen,sidéen,sideen,m
@@ -17586,7 +17586,7 @@ tahitien,tahitien,tahitien,m
 tahitien,tahitien,tahitien,f
 taie,taie,taie,f
 taille,taille,taille,f
-taille-crayon(s),taille-crayon(s),taille-crayon(s),m
+taille-crayon,taille-crayon,taille-crayon,m
 taille-douce,taille-douce,taille-douce,f
 taille-ongles,taille-ongles,taille-ongles,m
 tailleur,tailleur,tailleur,m
@@ -17677,8 +17677,8 @@ tarte,tarte,tarte,f
 tartelette,tartelette,tartelette,f
 tartine,tartine,tartine,f
 tartre,tartre,tartre,m
-tartuf(f)e,tartuf(f)e,tartuf(f)e,m
-tartuf(f)erie,tartuf(f)erie,tartuf(f)erie,f
+tartufe,tartufe,tartufe,m
+tartuferie,tartuferie,tartuferie,f
 tas,tas,tas,m
 tasmanien,tasmanien,tasmanien,m
 tasmanien,tasmanien,tasmanien,f
@@ -17866,7 +17866,7 @@ tetard,têtard,tetard,m
 tete,tête,tete,f
 tete-à-queue,tête-à-queue,tete-a-queue,m
 tete-à-tête,tête-à-tête,tete-a-tete,m
-tete-de-Maure,tête-de-Maure,tete-de-Maure,m
+tete-de-maure,tête-de-maure,tete-de-maure,m
 tete-de-nègre,tête-de-nègre,tete-de-negre,m
 tetee,tétée,tetee,f
 tetine,tétine,tetine,f
@@ -18122,7 +18122,7 @@ tourteau,tourteau,tourteau,m
 tourtereau,tourtereau,tourtereau,m
 tourterelle,tourterelle,tourterelle,f
 tourtière,tourtière,tourtiere,f
-Toussaint,Toussaint,Toussaint,f
+toussaint,toussaint,toussaint,f
 toussotement,toussotement,toussotement,m
 tout-à-l'égout,tout-à-l'égout,tout-a-l'egout,m
 tout-petit,tout-petit,tout-petit,m
@@ -18324,7 +18324,7 @@ trilingue,trilingue,trilingue,f
 trillion,trillion,trillion,m
 trilogie,trilogie,trilogie,f
 trimaran,trimaran,trimaran,m
-trimbal(l)age,trimbal(l)age,trimbal(l)age,m
+trimbalage,trimbalage,trimbalage,m
 trimestre,trimestre,trimestre,m
 trimoteur,trimoteur,trimoteur,m
 tringle,tringle,tringle,f
